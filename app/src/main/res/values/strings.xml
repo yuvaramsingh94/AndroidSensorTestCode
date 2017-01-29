@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Sensor test code</string>
+    <string name="title">LINEAR ACCELERATION VALUE</string>
+    <string name="x_label">X : </string>
+    <string name="y_label">Y : </string>
+    <string name="z_label">Z : </string>
+</resources>
